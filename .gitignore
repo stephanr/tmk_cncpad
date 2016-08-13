@@ -1,1 +1,4 @@
 tmk
+cncpad/.dep/
+cncpad/cncpad_lufa.*
+cncpad/obj_cncpad_lufa
